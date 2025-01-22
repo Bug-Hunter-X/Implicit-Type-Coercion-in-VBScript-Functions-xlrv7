@@ -1,0 +1,1 @@
+This repository demonstrates a common, yet subtle, error in VBScript: implicit type coercion.  The `bug.vbs` file contains a function with an issue; the solution is shown in `bugSolution.vbs`.  VBScript's flexible typing can lead to difficulties in debugging if you do not declare variable types explicitly.
